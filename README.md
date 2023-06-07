@@ -13,4 +13,5 @@ On the show summary screen, users can click on the "Book Ticket" button to open 
 
 # Technologies Used
 React JS: A JavaScript library for building user interfaces.
-Bootstrap: A popular CSS framework for styling web applications.
+HTML and CSS for styling
+Used local storage for storing user details
