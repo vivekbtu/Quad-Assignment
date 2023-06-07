@@ -1,26 +1,6 @@
 # TV Show Explorer
 This is a React JS application that allows users to explore TV shows and view their summaries. It utilizes the TVmaze API to fetch show data and provide a seamless browsing experience.
 
-Installation
-Clone the repository:
-
-git clone <repository_url>
-
-Navigate to the project directory:
-
-cd tv-show-explorer
-Install the dependencies:
-
-npm install
-
-Start the development server:
-
-npm run start
-
-Open the application in your browser:
-
-http://localhost:3000
-
 # Features
 ## Show List: 
 The home screen displays a list of TV shows along with their names and details. Each show is represented by a card containing relevant information.
