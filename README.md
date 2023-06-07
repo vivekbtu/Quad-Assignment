@@ -13,5 +13,7 @@ On the show summary screen, users can click on the "Book Ticket" button to open 
 
 # Technologies Used
 React JS: A JavaScript library for building user interfaces.
+
 HTML and CSS for styling
+
 Used local storage for storing user details
